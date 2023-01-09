@@ -1,0 +1,23 @@
+.head-b{
+   text-align: center;
+   padding-top: 100px;
+}
+body{
+    background: url(flower.jpg);
+    border: 10px solid rgb(23, 70, 14);
+    border-radius: 5%;
+    text-align: center;
+    margin: auto;
+    padding: 20%;
+
+}
+a {
+    color: rgb(78, 166, 201);
+    text-decoration: none;
+    border: 5px solid black;
+    padding: 10px 5px;
+    border-radius: 20px;
+}
+.love{
+    font-size:200px;
+}
